@@ -1,0 +1,1058 @@
+[
+    {
+      "name": "Australia",
+      "id": 1
+    },
+    {
+      "name": "Austria",
+      "id": 2
+    },
+    {
+      "name": "Canada",
+      "id": 3
+    },
+    {
+      "name": "Chile",
+      "id": 4
+    },
+    {
+      "name": "China",
+      "id": 5
+    },
+    {
+      "name": "France",
+      "id": 6
+    },
+    {
+      "name": "Germany",
+      "id": 7
+    },
+    {
+      "name": "Hong Kong",
+      "id": 8
+    },
+    {
+      "name": "India",
+      "id": 9
+    },
+    {
+      "name": "Indonesia",
+      "id": 10
+    },
+    {
+      "name": "Italy",
+      "id": 11
+    },
+    {
+      "name": "Japan",
+      "id": 12
+    },
+    {
+      "name": "Mexico",
+      "id": 13
+    },
+    {
+      "name": "Russia",
+      "id": 14
+    },
+    {
+      "name": "Singapore",
+      "id": 15
+    },
+    {
+      "name": "Spain",
+      "id": 16
+    },
+    {
+      "name": "Sweden",
+      "id": 17
+    },
+    {
+      "name": "Switzerland",
+      "id": 18
+    },
+    {
+      "name": "United States",
+      "id": 19
+    },
+    {
+      "name": "Automotive ",
+      "id": 20,
+      "parent": 5
+    },
+    {
+      "name": "Food & Beverage ",
+      "id": 21,
+      "parent": 5
+    },
+    {
+      "name": "Healthcare ",
+      "id": 22,
+      "parent": 5
+    },
+    {
+      "name": "Manufacturing",
+      "id": 23,
+      "parent": 5
+    },
+    {
+      "name": "Technology",
+      "id": 24,
+      "parent": 5
+    },
+    {
+      "name": "Fashion & Retail ",
+      "id": 25,
+      "parent": 6
+    },
+    {
+      "name": "Automotives",
+      "id": 26,
+      "parent": 7
+    },
+    {
+      "name": "Fashion & Retail ",
+      "id": 27,
+      "parent": 7
+    },
+    {
+      "name": "Diversified",
+      "id": 28,
+      "parent": 9
+    },
+    {
+      "name": "Metals & Mining ",
+      "id": 29,
+      "parent": 9
+    },
+    {
+      "name": "Diversified",
+      "id": 30,
+      "parent": 19
+    },
+    {
+      "name": "Fashion & Retail ",
+      "id": 31,
+      "parent": 19
+    },
+    {
+      "name": "Finance & Investments ",
+      "id": 32,
+      "parent": 19
+    },
+    {
+      "name": "Food & Beverage ",
+      "id": 33,
+      "parent": 19
+    },
+    {
+      "name": "Media & Entertainment ",
+      "id": 34,
+      "parent": 19
+    },
+    {
+      "name": "Technology",
+      "id": 35,
+      "parent": 19
+    },
+    {
+      "name": "Elon Musk ",
+      "id": 36,
+      "parent": 19,
+      "country": "United States",
+      "source": "Tesla, SpaceX",
+      "industry": "Automotive ",
+      "value": 219
+    },
+    {
+      "name": "Jeff Bezos ",
+      "id": 37,
+      "parent": 35,
+      "country": "United States",
+      "source": "Amazon",
+      "industry": "Technology ",
+      "value": 171
+    },
+    {
+      "name": "Bernard Arnault & family ",
+      "id": 38,
+      "parent": 25,
+      "country": "France",
+      "source": "LVMH",
+      "industry": "Fashion & Retail ",
+      "value": 158
+    },
+    {
+      "name": "Bill Gates ",
+      "id": 39,
+      "parent": 35,
+      "country": "United States",
+      "source": "Microsoft",
+      "industry": "Technology ",
+      "value": 129
+    },
+    {
+      "name": "Warren Buffett ",
+      "id": 40,
+      "parent": 32,
+      "country": "United States",
+      "source": "Berkshire Hathaway",
+      "industry": "Finance & Investments ",
+      "value": 21
+    },
+    {
+      "name": "Larry Page ",
+      "id": 41,
+      "parent": 35,
+      "country": "United States",
+      "source": "Google",
+      "industry": "Technology ",
+      "value": 111
+    },
+    {
+      "name": "Sergey Brin ",
+      "id": 42,
+      "parent": 35,
+      "country": "United States",
+      "source": "Google",
+      "industry": "Technology ",
+      "value": 107
+    },
+    {
+      "name": "Larry Ellison ",
+      "id": 43,
+      "parent": 35,
+      "country": "United States",
+      "source": "software",
+      "industry": "Technology ",
+      "value": 106
+    },
+    {
+      "name": "Steve Ballmer ",
+      "id": 44,
+      "parent": 35,
+      "country": "United States",
+      "source": "Microsoft",
+      "industry": "Technology ",
+      "value": 91.4
+    },
+    {
+      "name": "Mukesh Ambani ",
+      "id": 45,
+      "parent": 28,
+      "country": "India",
+      "source": "diversified  ",
+      "industry": "diversified   ",
+      "value": 90.7
+    },
+    {
+      "name": "Gautam Adani & family ",
+      "id": 46,
+      "parent": 28,
+      "country": "India",
+      "source": "infrastructure, commodities",
+      "industry": "diversified   ",
+      "value": 90
+    },
+    {
+      "name": "Michael Bloomberg ",
+      "id": 47,
+      "parent": 34,
+      "country": "United States",
+      "source": "Bloomberg LP",
+      "industry": "Media & Entertainment ",
+      "value": 82
+    },
+    {
+      "name": "Carlos Slim Helu & family ",
+      "id": 48,
+      "parent": 13,
+      "country": "Mexico",
+      "source": "telecom",
+      "industry": "Telecom ",
+      "value": 81.2
+    },
+    {
+      "name": "Francoise Bettencourt Meyers & family ",
+      "id": 49,
+      "parent": 25,
+      "country": "France",
+      "source": "L'Or??al",
+      "industry": "Fashion & Retail ",
+      "value": 74.8
+    },
+    {
+      "name": "Mark Zuckerberg ",
+      "id": 50,
+      "parent": 35,
+      "country": "United States",
+      "source": "Facebook",
+      "industry": "Technology ",
+      "value": 67.3
+    },
+    {
+      "name": "Jim Walton ",
+      "id": 51,
+      "parent": 31,
+      "country": "United States",
+      "source": "Walmart",
+      "industry": "Fashion & Retail ",
+      "value": 66.2
+    },
+    {
+      "name": "Zhong Shanshan ",
+      "id": 52,
+      "parent": 21,
+      "country": "China",
+      "source": "beverages, pharmaceuticals",
+      "industry": "Food & Beverage ",
+      "value": 65.7
+    },
+    {
+      "name": "Alice Walton ",
+      "id": 53,
+      "parent": 31,
+      "country": "United States",
+      "source": "Walmart",
+      "industry": "Fashion & Retail ",
+      "value": 65.3
+    },
+    {
+      "name": "Rob Walton ",
+      "id": 54,
+      "parent": 31,
+      "country": "United States",
+      "source": "Walmart",
+      "industry": "Fashion & Retail ",
+      "value": 65
+    },
+    {
+      "name": "Changpeng Zhao ",
+      "id": 55,
+      "parent": 3,
+      "country": "Canada",
+      "source": "cryptocurrency exchange",
+      "industry": "Finance & Investments ",
+      "value": 65
+    },
+    {
+      "name": "Charles Koch ",
+      "id": 56,
+      "parent": 30,
+      "country": "United States",
+      "source": "Koch Industries",
+      "industry": "diversified   ",
+      "value": 60
+    },
+    {
+      "name": "Julia Koch & family ",
+      "id": 57,
+      "parent": 30,
+      "country": "United States",
+      "source": "Koch Industries",
+      "industry": "diversified   ",
+      "value": 60
+    },
+    {
+      "name": "Amancio Ortega ",
+      "id": 58,
+      "parent": 16,
+      "country": "Spain",
+      "source": "Zara",
+      "industry": "Fashion & Retail ",
+      "value": 59.6
+    },
+    {
+      "name": "Michael Dell ",
+      "id": 59,
+      "parent": 35,
+      "country": "United States",
+      "source": "Dell computers",
+      "industry": "Technology ",
+      "value": 55.1
+    },
+    {
+      "name": "Zhang Yiming ",
+      "id": 60,
+      "parent": 5,
+      "country": "China",
+      "source": "TikTok",
+      "industry": "Media & Entertainment ",
+      "value": 50
+    },
+    {
+      "name": "David Thomson & family ",
+      "id": 61,
+      "parent": 3,
+      "country": "Canada",
+      "source": "media",
+      "industry": "Media & Entertainment ",
+      "value": 49.2
+    },
+    {
+      "name": "Phil Knight & family ",
+      "id": 62,
+      "parent": 31,
+      "country": "United States",
+      "source": "Nike",
+      "industry": "Fashion & Retail ",
+      "value": 47.3
+    },
+    {
+      "name": "Dieter Schwarz ",
+      "id": 63,
+      "parent": 27,
+      "country": "Germany",
+      "source": "retail",
+      "industry": "Fashion & Retail ",
+      "value": 47.1
+    },
+    {
+      "name": "Robin Zeng ",
+      "id": 64,
+      "parent": 8,
+      "country": "Hong Kong",
+      "source": "batteries",
+      "industry": "Automotive ",
+      "value": 44.8
+    },
+    {
+      "name": "MacKenzie Scott ",
+      "id": 65,
+      "parent": 35,
+      "country": "United States",
+      "source": "Amazon",
+      "industry": "Technology ",
+      "value": 43.6
+    },
+    {
+      "name": "Rodolphe Saadé & family ",
+      "id": 66,
+      "parent": 6,
+      "country": "France",
+      "source": "shipping",
+      "industry": "Logistics ",
+      "value": 41.4
+    },
+    {
+      "name": "François Pinault & family ",
+      "id": 67,
+      "parent": 25,
+      "country": "France",
+      "source": "luxury goods",
+      "industry": "Fashion & Retail ",
+      "value": 40.4
+    },
+    {
+      "name": "Klaus-Michael Kuehne ",
+      "id": 68,
+      "parent": 7,
+      "country": "Germany",
+      "source": "shipping",
+      "industry": "Logistics ",
+      "value": 37.3
+    },
+    {
+      "name": "Ma Huateng ",
+      "id": 69,
+      "parent": 24,
+      "country": "China",
+      "source": "internet media",
+      "industry": "Technology ",
+      "value": 37.2
+    },
+    {
+      "name": "Beate Heister & Karl Albrecht Jr. & family ",
+      "id": 70,
+      "parent": 27,
+      "country": "Germany",
+      "source": "supermarkets",
+      "industry": "Fashion & Retail ",
+      "value": 36.8
+    },
+    {
+      "name": "Giovanni Ferrero ",
+      "id": 71,
+      "parent": 12,
+      "country": "Italy",
+      "source": "Nutella, chocolates",
+      "industry": "Food & Beverage ",
+      "value": 36.2
+    },
+    {
+      "name": "Li Ka-shing ",
+      "id": 72,
+      "parent": 8,
+      "country": "Hong Kong",
+      "source": "diversified  ",
+      "industry": "diversified   ",
+      "value": 34.8
+    },
+    {
+      "name": "Stephen Schwarzman ",
+      "id": 73,
+      "parent": 32,
+      "country": "United States",
+      "source": "investments",
+      "industry": "Finance & Investments ",
+      "value": 34.8
+    },
+    {
+      "name": "Lee Shau Kee ",
+      "id": 74,
+      "parent": 8,
+      "country": "Hong Kong",
+      "source": "real estate",
+      "industry": "Real Estate ",
+      "value": 32.6
+    },
+    {
+      "name": "Len Blavatnik ",
+      "id": 75,
+      "parent": 30,
+      "country": "United States",
+      "source": "music, chemicals",
+      "industry": "diversified   ",
+      "value": 32.5
+    },
+    {
+      "name": "Jacqueline Mars ",
+      "id": 76,
+      "parent": 19,
+      "country": "United States",
+      "source": "candy, pet food",
+      "industry": "Food & Beverage ",
+      "value": 31.7
+    },
+    {
+      "name": "John Mars ",
+      "id": 77,
+      "parent": 19,
+      "country": "United States",
+      "source": "candy, pet food",
+      "industry": "Food & Beverage ",
+      "value": 31.7
+    },
+    {
+      "name": "Alain Wertheimer ",
+      "id": 78,
+      "parent": 25,
+      "country": "France",
+      "source": "Chanel",
+      "industry": "Fashion & Retail ",
+      "value": 31.2
+    },
+    {
+      "name": "Gerard Wertheimer ",
+      "id": 79,
+      "parent": 25,
+      "country": "France",
+      "source": "Chanel",
+      "industry": "Fashion & Retail ",
+      "value": 31.2
+    },
+    {
+      "name": "German Larrea Mota Velasco & family ",
+      "id": 80,
+      "parent": 13,
+      "country": "Mexico",
+      "source": "mining",
+      "industry": "Metals & Mining ",
+      "value": 30.8
+    },
+    {
+      "name": "Gina Rinehart <img src='https://images.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png'>",
+      "id": 81,
+      "parent": 1,
+      "country": "Australia",
+      "source": "mining",
+      "industry": "Metals & Mining ",
+      "value": 30.2
+    },
+    {
+      "name": "Shiv Nadar ",
+      "id": 82,
+      "parent": 9,
+      "country": "India",
+      "source": "software services",
+      "industry": "Technology ",
+      "value": 28.7
+    },
+    {
+      "name": "Jim Simons ",
+      "id": 83,
+      "parent": 32,
+      "country": "United States",
+      "source": "hedge funds",
+      "industry": "Finance & Investments ",
+      "value": 28.6
+    },
+    {
+      "name": "He Xiangjian ",
+      "id": 84,
+      "parent": 23,
+      "country": "China",
+      "source": "home appliances",
+      "industry": "Manufacturing ",
+      "value": 28.3
+    },
+    {
+      "name": "Miriam Adelson ",
+      "id": 85,
+      "parent": 19,
+      "country": "United States",
+      "source": "casinos",
+      "industry": "Gambling & Casinos ",
+      "value": 27.5
+    },
+    {
+      "name": "Dietrich Mateschitz ",
+      "id": 86,
+      "parent": 2,
+      "country": "Austria",
+      "source": "Red Bull",
+      "industry": "Food & Beverage ",
+      "value": 27.4
+    },
+    {
+      "name": "Leonardo Del Vecchio & family ",
+      "id": 87,
+      "parent": 12,
+      "country": "Italy",
+      "source": "eyeglasses",
+      "industry": "Fashion & Retail ",
+      "value": 27.3
+    },
+    {
+      "name": "Ken Griffin ",
+      "id": 88,
+      "parent": 32,
+      "country": "United States",
+      "source": "hedge funds",
+      "industry": "Finance & Investments ",
+      "value": 27.2
+    },
+    {
+      "name": "Tadashi Yanai & family ",
+      "id": 89,
+      "parent": 11,
+      "country": "Japan",
+      "source": "fashion retail",
+      "industry": "Fashion & Retail ",
+      "value": 26.1
+    },
+    {
+      "name": "William Lei Ding ",
+      "id": 90,
+      "parent": 24,
+      "country": "China",
+      "source": "online games",
+      "industry": "Technology ",
+      "value": 25.2
+    },
+    {
+      "name": "Susanne Klatten ",
+      "id": 91,
+      "parent": 26,
+      "country": "Germany",
+      "source": "BMW, pharmaceuticals",
+      "industry": "Automotive ",
+      "value": 24.3
+    },
+    {
+      "name": "Cyrus Poonawalla ",
+      "id": 92,
+      "parent": 9,
+      "country": "India",
+      "source": "vaccines",
+      "industry": "Healthcare ",
+      "value": 24.3
+    },
+    {
+      "name": "Wang Wei ",
+      "id": 93,
+      "parent": 5,
+      "country": "China",
+      "source": "package delivery",
+      "industry": "Service ",
+      "value": 24.3
+    },
+    {
+      "name": "Qin Yinglin ",
+      "id": 94,
+      "parent": 21,
+      "country": "China",
+      "source": "pig breeding",
+      "industry": "Food & Beverage ",
+      "value": 24.1
+    },
+    {
+      "name": "Sam Bankman-Fried ",
+      "id": 95,
+      "parent": 32,
+      "country": "United States",
+      "source": "cryptocurrency exchange",
+      "industry": "Finance & Investments ",
+      "value": 24
+    },
+    {
+      "name": "Takemitsu Takizaki ",
+      "id": 96,
+      "parent": 11,
+      "country": "Japan",
+      "source": "sensors",
+      "industry": "Manufacturing ",
+      "value": 23.9
+    },
+    {
+      "name": "Li Shufu ",
+      "id": 97,
+      "parent": 20,
+      "country": "China",
+      "source": "automobiles",
+      "industry": "Automotive ",
+      "value": 23.7
+    },
+    {
+      "name": "Emmanuel Besnier ",
+      "id": 98,
+      "parent": 6,
+      "country": "France",
+      "source": "cheese",
+      "industry": "Food & Beverage ",
+      "value": 23.5
+    },
+    {
+      "name": "R. Budi Hartono ",
+      "id": 99,
+      "parent": 10,
+      "country": "Indonesia",
+      "source": "banking, tobacco",
+      "industry": "Finance & Investments ",
+      "value": 23.2
+    },
+    {
+      "name": "Leonard Lauder ",
+      "id": 100,
+      "parent": 31,
+      "country": "United States",
+      "source": "Estee Lauder",
+      "industry": "Fashion & Retail ",
+      "value": 23.1
+    },
+    {
+      "name": "Guillaume Pousaz ",
+      "id": 101,
+      "parent": 18,
+      "country": "Switzerland",
+      "source": "fintech",
+      "industry": "Finance & Investments ",
+      "value": 23
+    },
+    {
+      "name": "Iris Fontbona & family ",
+      "id": 102,
+      "parent": 4,
+      "country": "Chile",
+      "source": "mining",
+      "industry": "Metals & Mining ",
+      "value": 22.8
+    },
+    {
+      "name": "Jack Ma ",
+      "id": 103,
+      "parent": 24,
+      "country": "China",
+      "source": "e-commerce",
+      "industry": "Technology ",
+      "value": 22.8
+    },
+    {
+      "name": "Michael Hartono ",
+      "id": 104,
+      "parent": 10,
+      "country": "Indonesia",
+      "source": "banking, tobacco",
+      "industry": "Manufacturing ",
+      "value": 22.3
+    },
+    {
+      "name": "Eric Schmidt ",
+      "id": 105,
+      "parent": 35,
+      "country": "United States",
+      "source": "Google",
+      "industry": "Technology ",
+      "value": 22.1
+    },
+    {
+      "name": "Ray Dalio ",
+      "id": 106,
+      "parent": 32,
+      "country": "United States",
+      "source": "hedge funds",
+      "industry": "Finance & Investments ",
+      "value": 22
+    },
+    {
+      "name": "Daniel Gilbert ",
+      "id": 107,
+      "parent": 32,
+      "country": "United States",
+      "source": "Quicken Loans",
+      "industry": "Finance & Investments ",
+      "value": 22
+    },
+    {
+      "name": "Thomas Frist, Jr. & family ",
+      "id": 108,
+      "parent": 19,
+      "country": "United States",
+      "source": "hospitals",
+      "industry": "Healthcare ",
+      "value": 21.8
+    },
+    {
+      "name": "Masayoshi Son ",
+      "id": 109,
+      "parent": 11,
+      "country": "Japan",
+      "source": "internet, telecom",
+      "industry": "Telecom ",
+      "value": 21.3
+    },
+    {
+      "name": "Abigail Johnson ",
+      "id": 110,
+      "parent": 32,
+      "country": "United States",
+      "source": "money management",
+      "industry": "Finance & Investments ",
+      "value": 21.2
+    },
+    {
+      "name": "Rupert Murdoch & family ",
+      "id": 111,
+      "parent": 34,
+      "country": "United States",
+      "source": "newspapers, TV network",
+      "industry": "Media & Entertainment ",
+      "value": 20.8
+    },
+    {
+      "name": "Stefan Quandt ",
+      "id": 112,
+      "parent": 26,
+      "country": "Germany",
+      "source": "BMW",
+      "industry": "Automotive ",
+      "value": 20.7
+    },
+    {
+      "name": "Jensen Huang ",
+      "id": 113,
+      "parent": 35,
+      "country": "United States",
+      "source": "semiconductors",
+      "industry": "Technology ",
+      "value": 20.6
+    },
+    {
+      "name": "Huang Shilin ",
+      "id": 114,
+      "parent": 20,
+      "country": "China",
+      "source": "batteries",
+      "industry": "Automotive ",
+      "value": 20.3
+    },
+    {
+      "name": "Thomas Peterffy ",
+      "id": 115,
+      "parent": 32,
+      "country": "United States",
+      "source": "discount brokerage",
+      "industry": "Finance & Investments ",
+      "value": 20.1
+    },
+    {
+      "name": "Radhakishan Damani ",
+      "id": 116,
+      "parent": 9,
+      "country": "India",
+      "source": "retail, investments",
+      "industry": "Fashion & Retail ",
+      "value": 20
+    },
+    {
+      "name": "Pang Kang ",
+      "id": 117,
+      "parent": 21,
+      "country": "China",
+      "source": "soy sauce",
+      "industry": "Food & Beverage ",
+      "value": 19.6
+    },
+    {
+      "name": "Wang Chuanfu ",
+      "id": 118,
+      "parent": 20,
+      "country": "China",
+      "source": "batteries, automobiles",
+      "industry": "Automotive ",
+      "value": 19.5
+    },
+    {
+      "name": "Reinhold Wuerth & family ",
+      "id": 119,
+      "parent": 7,
+      "country": "Germany",
+      "source": "fasteners",
+      "industry": "Manufacturing ",
+      "value": 19
+    },
+    {
+      "name": "Theo Albrecht, Jr. & family ",
+      "id": 120,
+      "parent": 27,
+      "country": "Germany",
+      "source": "Aldi, Trader Joe's",
+      "industry": "Fashion & Retail ",
+      "value": 18.7
+    },
+    {
+      "name": "Yang Huiyan & family ",
+      "id": 121,
+      "parent": 5,
+      "country": "China",
+      "source": "real estate",
+      "industry": "Real Estate ",
+      "value": 18.7
+    },
+    {
+      "name": "Vladimir Lisin ",
+      "id": 122,
+      "parent": 14,
+      "country": "Russia",
+      "source": "steel, transport",
+      "industry": "Metals & Mining ",
+      "value": 18.4
+    },
+    {
+      "name": "Fan Hongwei & family ",
+      "id": 123,
+      "parent": 5,
+      "country": "China",
+      "source": "petrochemicals",
+      "industry": "Energy ",
+      "value": 18.2
+    },
+    {
+      "name": "Lakshmi Mittal ",
+      "id": 124,
+      "parent": 29,
+      "country": "India",
+      "source": "steel",
+      "industry": "Metals & Mining ",
+      "value": 17.9
+    },
+    {
+      "name": "Andrew Forrest ",
+      "id": 125,
+      "parent": 1,
+      "country": "Australia",
+      "source": "mining",
+      "industry": "Metals & Mining ",
+      "value": 17.8
+    },
+    {
+      "name": "Jiang Rensheng & family ",
+      "id": 126,
+      "parent": 22,
+      "country": "China",
+      "source": "vaccines",
+      "industry": "Healthcare ",
+      "value": 17.7
+    },
+    {
+      "name": "Wang Wenyin ",
+      "id": 127,
+      "parent": 5,
+      "country": "China",
+      "source": "mining, copper products",
+      "industry": "Metals & Mining ",
+      "value": 17.7
+    },
+    {
+      "name": "Savitri Jindal & family ",
+      "id": 128,
+      "parent": 29,
+      "country": "India",
+      "source": "steel",
+      "industry": "Metals & Mining ",
+      "value": 17.7
+    },
+    {
+      "name": "Stefan Persson ",
+      "id": 129,
+      "parent": 17,
+      "country": "Sweden",
+      "source": "H&M",
+      "industry": "Fashion & Retail ",
+      "value": 17.6
+    },
+    {
+      "name": "Li Xiting ",
+      "id": 130,
+      "parent": 15,
+      "country": "Singapore",
+      "source": "medical devices",
+      "industry": "Healthcare ",
+      "value": 17.6
+    },
+    {
+      "name": "Steve Cohen ",
+      "id": 131,
+      "parent": 32,
+      "country": "United States",
+      "source": "hedge funds",
+      "industry": "Finance & Investments ",
+      "value": 17.4
+    },
+    {
+      "name": "Vladimir Potanin ",
+      "id": 132,
+      "parent": 14,
+      "country": "Russia",
+      "source": "metals",
+      "industry": "Metals & Mining ",
+      "value": 17.3
+    },
+    {
+      "name": "Harold Hamm & family ",
+      "id": 133,
+      "parent": 19,
+      "country": "United States",
+      "source": "oil & gas",
+      "industry": "Energy ",
+      "value": 17.2
+    },
+    {
+      "name": "Sun Piaoyang ",
+      "id": 134,
+      "parent": 22,
+      "country": "China",
+      "source": "pharmaceuticals",
+      "industry": "Healthcare ",
+      "value": 17.1
+    },
+    {
+      "name": "Luo Liguo & family ",
+      "id": 135,
+      "parent": 23,
+      "country": "China",
+      "source": "chemicals",
+      "industry": "Manufacturing ",
+      "value": 17
+    }
+   ]

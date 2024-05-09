@@ -1,0 +1,449 @@
+                     {
+  "chart": {
+    "zIndex": 0,
+    "enabled": true,
+    "type": "graph",
+    "title": {
+      "zIndex": 80,
+      "enabled": true,
+      "maxLength": null,
+      "fontSize": 16,
+      "fontFamily": "Verdana, Helvetica, Arial, sans-serif",
+      "fontColor": "#7c868e",
+      "fontOpacity": 1,
+      "fontDecoration": "none",
+      "fontStyle": "normal",
+      "fontVariant": "normal",
+      "fontWeight": "normal",
+      "letterSpacing": "normal",
+      "textDirection": "ltr",
+      "textShadow": "none",
+      "lineHeight": "normal",
+      "textIndent": 0,
+      "vAlign": "top",
+      "hAlign": "center",
+      "wordWrap": "normal",
+      "wordBreak": "normal",
+      "textOverflow": "",
+      "selectable": false,
+      "disablePointerEvents": false,
+      "useHtml": false,
+      "width": null,
+      "height": null,
+      "align": "center",
+      "text": "Network Graph showing the battles in Game of Thrones",
+      "margin": {
+        "left": 0,
+        "top": 0,
+        "bottom": 0,
+        "right": 0
+      },
+      "padding": {
+        "left": 0,
+        "top": 0,
+        "bottom": 10,
+        "right": 0
+      },
+      "background": {
+        "zIndex": 0,
+        "enabled": false
+      }
+    },
+    "background": {
+      "zIndex": 0.5,
+      "enabled": true
+    },
+    "tooltip": {
+      "enabled": true,
+      "title": {
+        "zIndex": 1,
+        "enabled": false,
+        "maxLength": null,
+        "fontSize": 14,
+        "fontFamily": "Verdana, Helvetica, Arial, sans-serif",
+        "fontColor": "#ffffff",
+        "fontOpacity": 1,
+        "fontDecoration": "none",
+        "fontStyle": "normal",
+        "fontVariant": "normal",
+        "fontWeight": "normal",
+        "letterSpacing": "normal",
+        "textDirection": "ltr",
+        "textShadow": "none",
+        "lineHeight": "normal",
+        "textIndent": 0,
+        "vAlign": "top",
+        "hAlign": "left",
+        "wordWrap": "normal",
+        "wordBreak": "normal",
+        "textOverflow": "",
+        "selectable": false,
+        "disablePointerEvents": false,
+        "useHtml": false,
+        "width": null,
+        "height": null,
+        "align": "left",
+        "orientation": "top",
+        "rotation": 0,
+        "text": "",
+        "margin": {
+          "left": 0,
+          "top": 0,
+          "bottom": 0,
+          "right": 0
+        },
+        "padding": {
+          "left": 0,
+          "top": 0,
+          "bottom": 0,
+          "right": 0
+        },
+        "background": {
+          "enabled": false
+        }
+      },
+      "separator": {
+        "zIndex": 1,
+        "enabled": false,
+        "fill": {
+          "color": "#CECECE",
+          "opacity": 0.3
+        },
+        "stroke": "none",
+        "width": "100%",
+        "height": 1,
+        "orientation": "top",
+        "margin": {
+          "left": 0,
+          "top": 5,
+          "bottom": 5,
+          "right": 0
+        }
+      },
+      "background": {
+        "zIndex": 0,
+        "enabled": true
+      }
+    },
+    "margin": {
+      "left": 0,
+      "top": 0,
+      "bottom": 0,
+      "right": 0
+    },
+    "padding": {
+      "left": 10,
+      "top": 10,
+      "bottom": 10,
+      "right": 10
+    },
+    "a11y": {
+      "enabled": true,
+      "mode": "chart-elements"
+    },
+    "autoRedraw": true,
+    "bounds": {},
+    "contextMenu": {
+      "enabled": true
+    },
+    "credits": {
+      "text": "AnyChart",
+      "url": "https://www.anychart.com/?utm_source=registered",
+      "alt": "AnyChart - JavaScript Charts designed to be embedded and integrated{{anychart-version}}",
+      "imgAlt": "AnyChart - JavaScript Charts",
+      "logoSrc": "https://static.anychart.com/logo.png",
+      "enabled": false
+    },
+    "selectRectangleMarqueeFill": {
+      "color": "#d3d3d3",
+      "opacity": 0.4
+    },
+    "selectRectangleMarqueeStroke": "#d3d3d3",
+    "graphData": {
+      "nodes": [
+        {
+          "id": "Lannister",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/500px-House_Lannister.svg.png"
+          },
+          "x": 0
+        },
+        {
+          "id": "Tully",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+          },
+          "x": 1
+        },
+        {
+          "id": "Baratheon",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/500px-House_Baratheon.svg.png"
+          },
+          "x": 2
+        },
+        {
+          "id": "Stark",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/500px-House_Stark.svg.png"
+          },
+          "x": 3
+        },
+        {
+          "id": "Darry",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/9/9e/House_Darry.svg/500px-House_Darry.svg.png"
+          },
+          "x": 4
+        },
+        {
+          "id": "Greyjoy",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/5/5b/House_Greyjoy.svg/500px-House_Greyjoy.svg.png"
+          },
+          "x": 5
+        },
+        {
+          "id": "Bolton",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/0/0c/House_Bolton.svg/500px-House_Bolton.svg.png"
+          },
+          "x": 6
+        },
+        {
+          "id": "Brotherhood without Banners",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/1/17/BWB_Sir_Heartsalot.jpg/700px-BWB_Sir_Heartsalot.jpg"
+          },
+          "x": 7
+        },
+        {
+          "id": "Brave Companions",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/2/24/Brave_Companions.svg/400px-Brave_Companions.svg.png"
+          },
+          "x": 8
+        },
+        {
+          "id": "Frey",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/d/da/House_Frey.svg/500px-House_Frey.svg.png"
+          },
+          "x": 9
+        },
+        {
+          "id": "Mallister",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/7/75/House_Mallister.svg/500px-House_Mallister.svg.png"
+          },
+          "x": 10
+        },
+        {
+          "id": "Free folk",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/9/94/Tomasz_Jedruszek_Wildling_Rabble.jpg"
+          },
+          "x": 11
+        },
+        {
+          "id": "Night's Watch",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/f/f3/Night%27s_Watch.svg/500px-Night%27s_Watch.svg.png"
+          },
+          "x": 12
+        },
+        {
+          "id": "Tyrell",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/3/31/House_Tyrell.svg/500px-House_Tyrell.svg.png"
+          },
+          "x": 13
+        },
+        {
+          "id": "Bracken",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/e/e5/House_Bracken.svg/500px-House_Bracken.svg.png"
+          },
+          "x": 14
+        },
+        {
+          "id": "Blackwood",
+          "height": 50,
+          "fill": {
+            "src": "https://awoiaf.westeros.org/images/thumb/e/e1/House_Blackwood.svg/500px-House_Blackwood.svg.png"
+          },
+          "x": 15
+        }
+      ],
+      "edges": [
+        {
+          "from": "Lannister",
+          "to": "Tully"
+        },
+        {
+          "from": "Lannister",
+          "to": "Baratheon"
+        },
+        {
+          "from": "Stark",
+          "to": "Lannister"
+        },
+        {
+          "from": "Lannister",
+          "to": "Darry"
+        },
+        {
+          "from": "Greyjoy",
+          "to": "Stark"
+        },
+        {
+          "from": "Stark",
+          "to": "Greyjoy"
+        },
+        {
+          "from": "Bolton",
+          "to": "Stark"
+        },
+        {
+          "from": "Baratheon",
+          "to": "Lannister"
+        },
+        {
+          "from": "Darry",
+          "to": "Lannister"
+        },
+        {
+          "from": "Brotherhood without Banners",
+          "to": "Brave Companions"
+        },
+        {
+          "from": "Lannister",
+          "to": "Stark"
+        },
+        {
+          "from": "Lannister",
+          "to": "Brave Companions"
+        },
+        {
+          "from": "Frey",
+          "to": "Stark"
+        },
+        {
+          "from": "Frey",
+          "to": "Mallister"
+        },
+        {
+          "from": "Free folk",
+          "to": "Night's Watch"
+        },
+        {
+          "from": "Free folk",
+          "to": "Baratheon"
+        },
+        {
+          "from": "Bolton",
+          "to": "Greyjoy"
+        },
+        {
+          "from": "Baratheon",
+          "to": "Greyjoy"
+        },
+        {
+          "from": "Greyjoy",
+          "to": "Tyrell"
+        },
+        {
+          "from": "Bracken",
+          "to": "Blackwood"
+        },
+        {
+          "from": "Baratheon",
+          "to": "Bolton"
+        },
+        {
+          "from": "Baratheon",
+          "to": "Frey"
+        }
+      ]
+    },
+    "nodes": {
+      "normal": {
+        "stroke": "none",
+        "shape": "circle",
+        "width": 12,
+        "height": 30,
+        "labels": {
+          "format": "{%id}",
+          "fontSize": 12,
+          "fontWeight": 600,
+          "enabled": true
+        }
+      },
+      "hovered": {
+        "stroke": {
+          "color": "#333333",
+          "thickness": 3
+        },
+        "height": 45
+      },
+      "selected": {
+        "fill": {
+          "color": "#333",
+          "opacity": 0.85
+        },
+        "stroke": {
+          "color": "#333333",
+          "thickness": 3
+        },
+        "height": 45
+      }
+    },
+    "edges": {
+      "selected": {
+        "stroke": {
+          "color": "#333",
+          "opacity": 0.85
+        }
+      }
+    },
+    "groups": [],
+    "layout": {
+      "type": "forced",
+      "iterationCount": 500
+    },
+    "interactivity": {
+      "enabled": true,
+      "zoomOnMouseWheel": true,
+      "scrollOnMouseWheel": false,
+      "magnetize": false,
+      "nodes": true,
+      "edges": true,
+      "hoverGap": 7
+    },
+    "transformationMatrix": {
+      "m00_": 1,
+      "m10_": 0,
+      "m01_": 0,
+      "m11_": 1,
+      "m02_": 0,
+      "m12_": 0
+    },
+    "rotation": 0
+  }
+}
+                
