@@ -2,7 +2,7 @@
 Sample Code For The Paper Titled: Towards Summarization of Aggregated Multimedia Verticals Web Search Results
 
 # Publication Here
-[Publication can be Downloaded From Here]('https://ieeexplore.ieee.org/abstract/document/10374811/')
+Publication can be Downloaded From Here: 'https://ieeexplore.ieee.org/abstract/document/10374811/'
 
 # Site
 Please use the following text to site the publication:
