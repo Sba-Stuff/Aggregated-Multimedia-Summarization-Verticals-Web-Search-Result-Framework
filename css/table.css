@@ -1,0 +1,24 @@
+ /* Styling for the table */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        /* Add some colors to the cells */
+        th {
+            background-color: #f2f2f2;
+        }
+
+        /* Style for mobile view */
+        @media (max-width: 600px) {
+            th, td {
+                width: 50%;
+            }
+        }
