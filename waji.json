@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Qazi",
+      "id": 1,
+      "fill": "http://cdn.anychart.com/ts/icons/anychart.svg"
+    },
+{
+      "name": "Ranjha",
+      "id": 6
+    },
+    {
+      "name": "Zaman",
+      "parent": 1,
+"id": 2,
+      "Is": "Father",
+"source": "<a href='hello.html'>Chicken</a>",
+"industry": "Automotive ",
+      "value": 219
+    },
+    {
+      "name": "Bibi",
+      "parent": 1,
+"id": 3,
+      "Is": "Mother",
+"industry": "Automotive ",
+      "value": 219
+    },
+    {
+      "name": "Tooba",
+      "parent": 1,
+"id": 4,
+      "Is": "Daughter",
+"industry": "Automotive ",
+      "value": 219
+    },
+    {
+      "name": "Wajeeh",
+      "parent": 1,
+"id": 5,
+      "Is": "Son",
+"industry": "Automotive ",
+      "value": 219
+    },
+  {
+      "name": "<img src='http://cdn.anychart.com/ts/icons/anychart.svg'>",
+      "parent": 6,
+"id": 7,
+      "Is": "Cousin",
+"industry": "Autootive ",
+      "value": 212
+    }
+]
